@@ -16,6 +16,7 @@ public class book {
 		return publishdate;
 	}
 	public String getprice(){
+		System.out.println("hehe");
 		return price;
 	}
 	public String execute(){
