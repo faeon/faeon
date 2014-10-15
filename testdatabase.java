@@ -1,6 +1,6 @@
 package fei;
 import java.sql.*;
-
+/# like this#/
 public class testdatabase{
 	private static Connection getcon(){
 		Connection con = null;
