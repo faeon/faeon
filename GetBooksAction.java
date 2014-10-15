@@ -14,7 +14,7 @@ import com.opensymphony.xwork2.ActionContext;
  */
 public class GetBooksAction implements Action
 {
-	//该属性并不用于封装用户请求参数，而用于封装Action需要输出到JSP页面的信息
+	用于封装Action需要输出到JSP页面的信息
 	private String[] books;
 	//books属性的setter方法
 	public void setBooks(String[] books)

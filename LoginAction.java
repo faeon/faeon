@@ -13,7 +13,7 @@ import com.opensymphony.xwork2.ActionContext;
  * @version  1.0
  */
 
-//实现Action接口来实现Struts 2的Action类
+
 public class LoginAction implements Action
 {
 	//下面是Action内用于封装用户请求参数的两个属性
